@@ -92,3 +92,10 @@ This project is published under [MIT License][license].
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
 [ko-fi]: https://ko-fi.com/coteschung/
 [donation]: https://sponsor.cotes.page/
+
+# 참조
+## 설치
+https://devpro.kr/posts/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-(3)/
+
+## template document
+https://idratherbewriting.com/documentation-theme-jekyll/index.html
