@@ -10,18 +10,18 @@ tags: [virtualbox]
 ## 저장소 설정
 설치하려는 OS의 ISO파일 추가
 
-[![](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_1.png?raw=true)](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_1.png?raw=true)
+[![virtualbox_1](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_1.png?raw=true)]()
 
 ## 네트워크 설정
 어댑터에 브리지로 설정
 
-[![](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_2.png?raw=true)](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_2.png?raw=true)
+[![virtualbox_2](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_2.png?raw=true)]()
 
 ## 공유 폴더 설정
 폴더 경로는 host의 공유 폴더
 마운트 지점은 guest의 공유 디렉토리
 
-[![](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_3.png?raw=true)](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_3.png?raw=true)
+[![virtualbox_3](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_3.png?raw=true)]()
 
 ## Repository 설정(Minimal 설치일 경우)
 vi /etc/yum.repos.d/CentOS.repo
@@ -107,7 +107,7 @@ wget https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
 
 다운로드 링크 : http://download.virtualbox.org/virtualbox/6.1.30
 
-[![](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_4.png?raw=true)](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_4.png?raw=true)
+[![virtualbox_4](https://github.com/shd8989/shd8989.github.io/blob/master/assets/img/virtualbox/virtualbox_4.png?raw=true)]()
 
 ## Guest 확인
 ```
