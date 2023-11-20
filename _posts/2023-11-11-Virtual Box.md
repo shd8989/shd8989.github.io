@@ -77,6 +77,7 @@ yum -y install gcc
 
 에러) device eth0 does not seem to be present delaying initialization
 {: .font-red }
+
 VIrtual Box 복제시 MAC주소 이상에 따른 오류
 아래 두개 파일에서 MAC주소 변경
 1. /etc/udev/rules.d/70-persistent-net.rules
